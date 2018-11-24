@@ -1,0 +1,10 @@
+2018-11-24 16:30:09.118 [main] INFO  demo.util.Log >> *********************
+2018-11-24 16:30:09.134 [main] INFO  demo.util.Log >> **********START TEST CASE LOGGING*******
+2018-11-24 16:30:09.134 [main] INFO  demo.util.Log >> *********************
+2018-11-24 16:30:09.301 [main] INFO  demo.test.SimpleLoginTest >> *********Enter Username*********
+2018-11-24 16:30:09.517 [main] INFO  demo.test.SimpleLoginTest >> *********Enter Password*********
+2018-11-24 16:30:11.791 [main] INFO  demo.test.SimpleLoginTest >> *********Click login Button*********
+2018-11-24 16:30:29.461 [main] INFO  demo.test.SimpleLoginTest >> *********Click logOut Button*********
+2018-11-24 16:30:29.461 [main] INFO  demo.util.Log >> *********************
+2018-11-24 16:30:29.461 [main] INFO  demo.util.Log >> **********END TEST CASE LOGGING*******
+2018-11-24 16:30:29.461 [main] INFO  demo.util.Log >> *********************
